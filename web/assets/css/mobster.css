@@ -2246,6 +2246,13 @@ hr {
   border-radius: 30px;
 }
 
+/*mengatur gambar sejarah  dari masing - masing rumah adat */
+.img-adat{
+  width:800px;
+  height:600px;
+  border-radius:30px;
+}
+
 .hero-home-1 .mobile-preview {
   margin-top: 20%;
 }
