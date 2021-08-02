@@ -36,6 +36,10 @@ body {
   font-weight: bold;
   color:black;
 }
+.text-product{
+  font-size:15px;
+  color:red;
+}
 a {
   color: #526bf5;
 }
